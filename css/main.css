@@ -13,3 +13,8 @@ body, input {
 input {
     width: 100%;
 }
+
+#map, h2, p {
+    margin: 0;
+    padding: 0;
+}
